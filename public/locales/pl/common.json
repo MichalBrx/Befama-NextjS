@@ -1,0 +1,145 @@
+{
+    "welcome": "Witaj w Befamie",
+    "subtitle": "Oferujemy wysokiej jakości maszyny",
+    "work_w_us": "Pracuj z nami!",
+    "if_you": "Jeżeli chcesz poszeżać swoją wiedzę i dalej się rozwijać wyślij do nas swoje CV!",
+    "who_we_need": "Kogo szukamy?",
+
+    "services": "Usługi",
+    "contact": "Kontakt",
+    "career": "Kariera",
+    "machnies": "Maszyny",
+    "about_us": "O nas",
+
+    "prod_line": "Linie produkcyjne",
+    "offer": "Maszyny",
+    "learn_more": "Dowiedz się więcej",
+    "offer_title": "Usługi",
+    
+
+    "offer1": "Projektowanie maszyn i linii produkcyjnych",
+    "offer2": "Doradztwo techniczne i technologiczne",
+    "offer3": "Serwis gwarancyjny i pogwarancyjny",
+    "offer4": "Modernizacja maszyn",
+    "offer5": "Dostawa części zamiennych",
+    "offer6": "Wymiana napędów i sterowania",
+    "offer7": "Montaż, demontaż, relokacje maszyn",
+
+
+    "fact1": "BEFAMA jest rzetelnym producentem maszyn włókienniczych znanym w ponad 80 krajach świata, gdzie dostarczyła ogółem kilka tysięcy maszyn i urządzeń.",
+    "fact2": "Obecnie firma specjalizuje się głównie w produkcji linii do obróbki wszelkiego typu włókien od naturalnej wełny po włókna syntetyczne. Szeroki asortyment maszyn pozwala na dostosowanie linii produkcyjnej do indywidualnych potrzeb klienta. Procesy tworzenia konstrukcji i technologii realizowane są przez wysokiej klasy specjalistów, technologów i konstruktorów.",
+    "fact3": "W ofercie firmy można znaleźć szeroki asortyment maszyn, od linii rozluźniająco-mieszających, przez zespoły zgrzeblące różnych technologii, układacze,  maszyny do odzyskiwania włókien z wyrobów włókienniczych i inne maszyny pomocnicze.",
+    "fact4": "Zawsze służymy naszą radą i doświadczeniem w doborze najlepszych dla Państwa rozwiązań.",
+    "fact5": "Po zrealizowaniu inwestycji udzielamy gwarancji na nasze części i maszyny, zapewniamy możliwość diagnozowania awarii poprzez łącze internetowe i natychmiastowy serwis. Ponadto gwarantujemy dostawę oryginalnych części zamiennych przez cały czas pracy maszyny.",
+    
+    
+    "specialization": "Specjalizacje",
+    "offer_head": "Oferta",
+    "help": "Pomoc",
+    "guarantee": "Gwarancja",
+    "questions": "Masz pytanie?",
+    "write_us": "Napisz do nas!",
+    "send": "Wyślij",
+    "names": "Imię i Nazwisko",
+    "e-mail": "Twój e-mail",
+    "question_content": "Treść zapytania",
+    "slogan": "Serce technologii",
+    "adress": "ADRES",
+    "CONTACT": "KONTAKT",
+    "law": "Sąd Rejonowy w Bielsku-Białej VIII Wydział Gospodarczy Krajowego Rejestru Sądowego",
+    "street": "ul.",
+    "phone": "tel.:",
+
+
+    "dep1": "Dział Sprzedaży",
+    "dep2": "Dział Konstrukcyjny",
+    "dep3": "Automatyka - Serwis",
+    "dep4": "Zaopatrzenie - Logistyka",
+
+
+    "serv_title": "Inne usługi",
+
+    "serv1": "Wałki i inne elementy toczone",
+    "serv2": "Dostawa i nawijanie obić piłowych oraz elastycznych",
+    "serv3": "Dostawa i montaż płyt szarpakowych, szczeblaków",
+    "serv4": "Elementy z tworzyw sztucznych do maszyn",
+    "serv5": "Szczelinomierze do ustawiania maszyn",
+    "serv6": "Części odlewane, kute, walcowane",
+    "serv7": "Elementy sterowania, modernizacja",
+
+
+    "dep_header": "Kontakt do poszczególnych działów",
+    "secretariat": "Sekretariat",
+    "languages": "Wybierz język",
+    "youtube": "Befama YouTube",
+    "location": "Lokalizacja Befamy",
+
+
+    "bale": "Otwieracze bel",
+    "transport": "Transportery zbiorcze",
+    "opening": "Maszyny rozluźniające",
+    "mixing": "Komory mieszalnicze",
+    "nonwoven": "Zgrzeblarki do produkcji włóknin",
+    "carding": "Zgrzeblarki do produkcji przędzy",
+    "lab": "Zgrzeblarki laboratoryjne i specjalne",
+    "crosslappers": "Układacze poziome",
+    "webdrafters": "Rozciągarki runa",
+    "recovery": "Maszyny do recyklingu",
+    "filters": "Kondensery obrotowe, cyklony, filtry",
+    "pneumatic": "Instalacje transportu pneumatycznego",
+
+
+    "OB1": "Otwieracze bel OB1, OB2, służą do wstępnego rozluźniania włókien w liniach rozluźniająco-mieszających i zasilania maszyn typu: wilk rozluźniający lub wilk zgrzeblący. Surowiec do zasilarki może być podawany mechanicznie transporterem lub pneumatycznie za pomocą cyklonu.",
+    "OB2-E": "Zasilarki wagowe z wagą elektroniczną OB1-E - przeznaczone do wstępnego rozluźnienia włókien w liniach otwierająco-mieszających oraz dozowania zadanych porcji surowca na transporter zbiorczy.",
+    "AB6": "Wilk zgrzeblący AB6N przeznaczony jest głównie do przygotowania surowca włókienniczego przed procesem zgrzeblenia. Może on stanowić element w linii rozluźniająco-mieszającej jak również pracować jako samodzielna maszyna wstępnego rozluźniania i mieszania. Rodzaje:  AB6N - wilk stacjonarny, AB6A - wilk obrotowy",
+    "AB19": "Wilk rozluźniający AB19, popularnie zwany Pikerem, przeznaczony jest do rozluźniania włókien przed procesem zgrzeblenia. W liniach rozluźniająco-mieszających pracuje najczęściej w połączeniu z zasilarką OB1 oraz wentylatorem WB od strony wydawania. AB19G- wersja specjalna dla włókien szklanych , zasilanie wałkowe, bęben główny z igłami",
+    "KMC": "Komora o pracy ciągłej KMC jest przeznaczona do akumulowania oraz mieszania włókien dostarczanych drogą transportu pneumatycznego.",
+    "MW6": "Mieszarka wielokomorowa MW6 służy do dokładnego przygotowania mieszanki włókien tworzonej z kilku komponentów włókien o długości nie przekraczającej 80 mm. Przy tworzeniu mieszanki z kilku surowców konieczne jest wcześniejsze ich odważenie i wstępne wymieszanie.",
+    "CR": "Zespoły zgrzeblarkowe przeznaczone do produkcji przędzy z włókien wełny, jej mieszanek i włókien regenerowanych. Moc zainstalowana uzależniona od szerokości roboczej i konfiguracji maszyny.",
+    "CS": "Zespoły przeznaczone są do zgrzeblenia wełny i przygotowania jej do dalszej obróbki w systemie czesankowym lub pół-czesankowym. CSW611 i CSW641 - przeznaczone są do przerobu wełny oraz mieszanki wełny z włóknami syntetycznymi. CSP611 i CSP641 - przeznaczone są do przerobu włókien syntetycznych.",
+    "CU611": "Zgrzeblarki jednozbieraczowe przeznaczone są do produkcji włóknin o niskich gramaturach, zazwyczaj w zakresie od 40 – 200 g/m2. Moc zainstalowana uzależniona od szerokości roboczej i konfiguracji maszyny.",
+    "CU661": "Zgrzeblarki dwuzbieraczowe przeznaczone są do produkcji włóknin o wysokich gramaturach, zazwyczaj w zakresie od 100 – 2000 g/m2. Moc zainstalowana uzależniona od szerokości roboczej i konfiguracji maszyny.",
+    "CU121": "Linia laboratoryjna CU121 ma zastosowanie do celów manipulacyjnych surowcami włókienniczymi - melanżowania kolorów oraz dobierania najlepszych parametrów produkcyjnych dla różnych surowców i ich mieszanek. Linia w połączeniu z układaczem, igłowarką, kalandrem lub innymi maszynami, może pomagać w opracowaniu nowych technologii w ośrodkach badawczych, instytutach lub innych tego typu placówkach. Linia może być wyposażona jest w nowoczesną zasilarkę 1E, zgrzeblarkę 3KA i urządzenie zagęszczające runo 5AZ.",
+    "3AGK": "Zgrzeblarka do filcu kapeluszowego 3AGK jest specjalistyczną maszyną opracowaną na potrzeby przemysłu odzieżowego. Jej konstrukcja pozwala na produkcję półfabrykatu na filc z przeznaczeniem na kapelusze. Duży bęben główny oraz siedem par wałków roboczo-zwrotnych pozwala na dobre rozluźnienie i wymieszanie surowca.",
+    "5W50": "Układacze serii 5W50 - mogą współpracować z zespołami do włóknin, o szerokościach roboczych 1000, 1800, 2000, 2200 i 2500 mm. Szerokości układania w zależności od typu: od 600 do 4200 mm. Układacz wyposażony w system profilowania runa. Sterowanie z pulpitu sterowniczego z panelem dotykowym.",
+    "5WN700": "Układacze serii 5WN700 - mogą współpracować z zespołami do włóknin o szerokościach roboczych 2200 i 2500 mm. Szerokości układania w zależności od typu: od 2800 do 6300 mm. Masa powierzchniowa pokładu runa: od 60 do 600 g/m2 lub od 500 do 1500 g/m2 .Układacz wyposażony w system profilowania runa. Prowadzenie surowca między lekkimi, antystatycznymi taśmami. Naciąg i prowadzenie taśm za pomocą siłowników pneumatycznych. Sterowanie z pulpitu sterowniczego z panelem dotykowym.",
+    "WD": "Rozciągarka runa WD instalowana po układaczu i najczęściej przed igłowarką lub piecem, poprawia parametry wytrzymałościowe włókniny. Dzięki zastosowaniu minimum trzech a maksymalnie sześciu sekcji rozciągających w linii produkcyjnej, znacznie zwiększymy jej wydajność.",
+    "AC40": "Szarparki AC40, AC50 są przeznaczone do przerobu odpadów włókienniczych, wykonanych z surowców naturalnych i sztucznych. Budowa modułowa pozwala na tworzenie zestawów od jednosekcyjnych (AC41, AC51) do sześciosekcyjnych (AC46, AC56), zależnie od potrzeb technologicznych. Zasilanie surowcem może być wykonywane ręcznie lub z wykorzystaniem zasilarki lub szybu. Odbiór surowca za pomocą transportera lub ssawy z wentylatorem.",
+    "POZ": "Nowoczesna maszyna rozwłókniająca, o bardzo dużej skuteczności rozwłókniania o kompaktowej zwartej budowie. Została wyposażona, w zależności od wersji, w jeden lub dwa bębny rozwłókniające współpracujące z wałkami roboczymi umieszczonymi na ich obwodach. Główną cechą tych maszyn jest bardzo wysoki stopień otwarcia, zwłaszcza w wersji tandem. Dzięki temu odzyskane włókna można ponownie wykorzystywać w procesie produkcji.",
+    "AC5": "Szarparki AC5 i AB19 przeznaczone są do odzyskiwania surowca z odpadów powstałych podczas procesu produkcji, takich jak wykroje, odcięte brzegi lub wybrakowane produkty. AC5 dzięki małym gabarytom znajdzie swoje miejsce w każdym zakładzie włókienniczym. Jeśli jednak potrzebujemy większej maszyny do odzyskiwania surowca powinniśmy pomyśleć o AB19 która posiada większe gabaryty i zapewni większe wydajności.",
+    "AC4B": "Szarparka krajek AC4B przeznaczona jest do odzyskiwania surowca z odciętych brzegów włóknin (krajek) podczas procesu produkcji. Dzięki zastosowaniu płynnej regulacji prędkości wprowadzania surowca, maszyna może pracować w systemie ciągłym z liniami do włóknin w różnych technologiach. Maszyna wyposażona jest w indywidualny system pneumatycznego odbioru szarpanki.",
+    "TP": "Transporter zbiorczy TP przeznaczony jest do odbierania surowca z kilku zasilarek wagowych (zazwyczajod 2 do 5 szt.), a następnie przeniesienia go do kolejnych maszyn w linii przygotowawczej. Transporter w wersji TPR jest wyposażony dodatkowo w wałek rozluźniający przed wentylatorem.",
+    "condensers": "Kondenser odpylający przeznaczony do dozowania surowca w instalacjach transportu pneumatycznego. Działanie urządzenia polega na oddzielaniu powietrza oraz kurzu od surowca na końcowym odcinku instalacji transportującej surowiec włókienniczy. Kondenser instalowany jest w komplecie ze stacją filtrów workowych. W wersji specjalnej posiada dodatkową siatkę na bębnie zabezpieczającą przed przedostawaniem się drobnych włókien do filtrów, jednocześnie zabezpieczając bęben przed ścieraniem w przypadku, włókien szklanych, ceramicznych, bazaltowych czy węglowych. KO – kondenser obrotowy wykonanie standardowe, KOS- kondenser obrotowy z dodatkową siatką na bębnie.",
+    "cyclones": "Cyklony podające stosowane w systemie transportu pneumatycznego. Są przeznaczone do podawania włókna do komory mieszania ciągłej pracy lub do wszelkiego rodzaju skrzyń zasilarek, szybów lub boksów. Oferujemy cyklony cyklony zwykłe, kierunkowe i odpylające. CY1 – Cyklon odpylający, CY2 – Cyklon podający zawężany, kierunkowy, CY3 – Cyklon podający zwykły.",
+    "filters2": "Oferowane stacje filtrujące, wyposażone są w stacjonarne filtry workowe w ilości od dwóch do pięciu worków w jednej stacji. Filtry posiadają najczęściej średnicę 500 mm i są dzielone na dwie części: górną oraz dolną, umożliwiającą opróżnianie zawartości filtra. FW2 – Stacja 2-workowa, FW3 – Stacja 3-workowa, FW5 – Stacja 5-workowa. Moc wentylatora uzależniona jest od rodzaju filtra.",
+    "pneumatic_desc": "Oferowane instalacje transportu pneumatycznego wykonywane są standardowo z blachy cynkowanej o specjalnym, gładkim wykończeniu powierzchni wewnętrznej. Elementy instalacji: PS – przewody stalowe o średnicach 150 mm, 200 mm, 250mm, 300mm | PE – przewody elastyczne (spiro) o średnicach 150 mm, 200 mm, 250mm, 300mm | RO – rozdzielacze obrotowe | WPT – wentylatory promieniowe.",
+    
+    
+    "hours": "Godziny otwarcia",
+    "mon-fri": "Pn-Pt ",
+    "sat-sun": "Sb-Nd ",
+    "closed": "nieczynne",
+    "contact_with": "KONTAKT Z NAMI",
+
+
+    "parameters": "Parametry",
+    "power": "Moc",
+    "width": "Szerokość robocza",
+    "cylinder": "Średnica bębna",
+    "doffer": "Średnica zbieracza",
+    "speed": "Prędkość",
+
+
+    "szarparki": "Szarparki AC40, AC50",
+    "otwieracz": "Otwieracz zgrzeblący OZ, POZ",
+    "szarparki2": "Szarparki AC5, AB19",
+    "krajek": "Szarpak krajek",
+    "kondensery": "Kondensery obrotowe, odpylajace",
+    "cyklony": "Cyklony",
+    "filtry": "Filtry",
+
+
+    "Befama-przemysł": "Befama - przemysł włókienniczy ",
+    "Befama-opis": "Producent wysokiej jakości maszyn do przemysłu włókienniczego. Gwarancja na zakupione maszyny oraz części. Szeroki wachlarz modeli maszyn. Włókiennictwo. Szarpaki. Otwieracze bel. Układacze. Zgrzeblarki. Rozciągarki. Maszyny do recyklingu Transportery. Linię produkcyjne.",
+    "Befama-keywords": "Maszyny do przemysłu włókienniczego"
+}

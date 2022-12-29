@@ -1,0 +1,145 @@
+{
+    "welcome": "Welcome to the Befama",
+    "subtitle": "We offer high-quality machines",
+    "work_w_us": "Work with us!",
+    "if_you": "If you want to expand your knowledge and develop further, send us your CV!",
+    "who_we_need": "Find out more ",
+
+    "services": "Services",
+    "contact": "Contact",
+    "career": "Career",
+    "machnies": "Machnies",
+    "about_us": "About us",
+
+    "prod_line": "Production line",
+    "offer": "Machines ",
+    "learn_more": "Learn more",
+    "offer_title": "Services",
+
+
+    "offer1": "Design of machines and production lines",
+    "offer2": "Technical and technological consulting",
+    "offer3": "Warranty and post-warranty service",
+    "offer4": "Modernization of machines",
+    "offer5": "Delivery of spare parts",
+    "offer6": "Replacement of drives and controls",
+    "offer7": "Assembly, disassembly, relocation of machines",
+
+
+    "fact1": "BEFAMA is a reliable manufacturer of textile machinery, known in over 80 countries around the world, where it has delivered several thousand machines and devices in total.",
+    "fact2": "Currently, the company specializes mainly in the production of lines for processing all types of fibers, from natural wool to synthetic fibers. A wide range of machines allows you to adjust the production line to the individual needs of the customer. The processes of creating structures and technologies are carried out by high-class specialists, technologists and constructors.",
+    "fact3": "The company's offer includes a wide range of machines, from loosening-mixing lines, through carding units of various technologies, stackers, machines for recovering fibers from textiles and other auxiliary machines.",
+    "fact4": "We always provide an advice and experience in selecting the best solutions for you.",
+    "fact5": "After completing the investment, we provide a guarantee for our parts and machines, we provide the possibility of diagnosing failures via the Internet connection and immediate service. In addition, we guarantee the supply of original spare parts for the entire time of the machine's operation.",
+    
+    
+    "specialization": "Specialization",
+    "offer_head": "Offer",
+    "help": "Help",
+    "guarantee": "Guarantee",
+    "questions": "Any questions?",
+    "write_us": "Write to us!",
+    "send": "Send",
+    "names": "Name & Surname",
+    "e-mail": "Your e-mail",
+    "question_content": "Question content",
+    "slogan": "The hearth of technology",
+    "adress": "ADRESS",
+    "CONTACT": "CONTACT",
+    "law": "District Court in Bielsko-Biała, VIII Commercial Division of the National Court Register",
+    "street": "st.",
+    "phone": "phone:",
+
+    
+    "dep1": "Sales Department",
+    "dep2": "Designing Department",
+    "dep3": "Automatics- Service",
+    "dep4": "Supply - Logistics",
+    
+
+    "serv_title": "Other services",
+    
+    "serv1": "Rollers and other turned parts",
+    "serv2": "Delivery and assembly of spicked plate and lattice",
+    "serv3": "Delivery and winding of metallic wire",
+    "serv4": "Plastic compoments for machines",
+    "serv5": "Gauges for setting machines",
+    "serv6": "Cast, forged, rolled parts",
+    "serv7": "Control elements, modernization",
+
+
+    "dep_header": "Contact to each department",
+    "secretariat": "Secretariat",
+    "languages": "Choose language",
+    "youtube": "Befama - YouTube",
+    "location": "Befama location",
+
+
+    "bale": "Bale openers",
+    "transport": "Collective transporters",
+    "opening": "Opening machines",
+    "mixing": "Mixing chambers",
+    "nonwoven": "Nonwovens carding sets",
+    "carding": "Carding set for spining",
+    "lab": "Laboratory and special-purpose carding machines",
+    "crosslappers": "Crosslappers",
+    "webdrafters": "Webdrafters",
+    "recovery": "Machines for fibre recovery",
+    "filters": "Rotary condensers, cyclones, filters",
+    "pneumatic": "Installations pneumatic transportation",
+    
+
+    "OB1": "The OB1, OB2, openers are used in opening and blending lines to pre-open fibres and feed pickers or willows. Fibres are supplied to the feeders mechanically on a conveyor or pneumatically through a cyclone.",
+    "OB2-E": "Weighing feeders with electronical weighpan OB1 are used to pre-open fibres and drop the fibre material in portions onto a collecting conveyor.",
+    "AB6": "The carding willow AB6 is mainly used to prepare fibre material for carding. It can work within an opening-blending line or serve as a separate pre-opening machine. Types: AB6N - stationary willow, AB6A - rotatable willow",
+    "AB19": "The picker AB19 opens the fibres before carding. In an opening-blending line it is normally used with an OB1 feeder and a WB fan on the exit side. AB19G- special version for glass fibers, roller feed, main drum with needles",
+    "KMC": "The KMC continuous work chambers is intended for the accumulation and mixing of fibers delivered by pneumatic transport.",
+    "MW6": "The MW6 multi-chamber mixer is used for the precise preparation of the mixture of fibers made of several fiber components with a length not exceeding 80 mm. When creating a mixture of several raw materials, it is necessary to weigh them in advance and mix them initially.",
+    "CR": "Carding sets for the production of yarn from wool fibers, its blends and regenerated fibers. Installed power depends on the working width and machine configuration.",
+    "CS": "Machines are designed for carding wool and preparing it for further processing in the worsted or semi-worsted system. CSW611 and CSW641 - are intended for processing wool and a mixture of wool with synthetic fibers. CSP611 and CSP641 - are intended for the processing of synthetic fibers.",
+    "CU611": "Single-doffer carding machines are designed for the production of low-grammage nonwovens, usually in the range of 40 - 200 g / m2. Installed power depends on the working width and machine configuration.",
+    "CU661": "Double doffer carding machines are designed for the production of nonwovens of high grammage, usually in the range of 100 - 2000 g / m2. Installed power depends on the working width and machine configuration.",
+    "CU121": "The CU121 carding set is used for processing test blends of different fibres and colours to select optimum carding parameters for different mixture ratios.The carding set, along with a crosslapper, needlepunching machine, calender or other machine, can be useful for developing new methods in research centres, institutes and other similar organizations.The carding set contains a 1E chute feeder of modern design, a 3KA card and a 5AZ web condensing rollers.",
+    "3AGK": "The 3AGK is a carding machine specifically developed for clothing industry. It is suitable for making web used as base material for hat felt. A large main cylinder along with seven pairs of working/stripping rollers provide a precise opening and blending of fibres.",
+    "5W50": "The 5W50-series lappers can work with non-woven carding machines of 1000, 1800, 2000, 2200 or 2500 mm working width. Lapping width according to the lapper type: from 600 to 4200 mm. The crosslapper is equipped with a web profiling system. Control from a control panel with a touch screen.",
+    "5WN700": "The 5WN700 series lappers can work with nonwovens carding sets of 2200 and 2500 mm with working widths. Lapping widths depending on the type: from 2800 to 6300 mm. The surface mass of the pile deck: from 60 to 600 g / m2 or from 500 to 1500 g / m2. The lapper is equipped with a web profiling system. Fibre web guided between light antistatic aprons. Aprons guided and tensioned by pneumatic cylinders. Control from a control panel with a touch screen panel.",
+    "WD": "The webdrafter, installed after the crosslapper and most often in front of the needling machine or the oven, improves the strength parameters of the nonwoven fabric. By using a minimum of three and a maximum of six stretching sections in the production line, we will significantly increase its efficiency.",
+    "AC40": "The AC40, AC50 rag tearers are used for processing natural and synthetic waste textile products.Their modular design allows building sets of one (AC41, AC51) to six cylinders (AC46 to AC56) according to customer&#39;s needs. The raw material feeding can be done manually or with the use of a feeder . The product is delivered onto a conveyor belt or through an exhaust fan.",
+    "POZ": "Carding openers POZ characterized by heigh quality and effectiveness of opening is equipped by 2 tearing drums with working rollers with metallic card clothing. Feeding can be done manually by hand or automatically by hoper feeder or volumetric feeder. On feeding rollers there is located short circuit device detecting metal pollution. POZ is equipped by sacking system and filtration station consist by filtration bags. Machin is controlled by touchscreen from control cabinet or control panel. Construction of the machine provides large adjustment range of the speed of each section what causes that the POZ is very flexible and can work with different materials.",
+    "AC5": "Tearing machines AC5 and AB19 are designed to recover raw material from waste generated during the production process, such as blanks, cut edges or scrap products. The AC5 machine has small dimensions, therefore it will find its place in every textile plant. However, if we need a larger machine for raw material recovery, we should think about the AB19 which has larger dimensions and will provide greater efficiency.",
+    "AC4B": "The AC4B tearing machine is used for recycling cut-off selvages of non-wovens coming from production processes. Infinitely variable feed-speed control allows the machine to be used in various continuous non- woven production lines.The machine is equipped with a pneumatic delivery system for the torn material.",
+    "condensers": "Dedusting condenser designed for raw material dosing in pneumatic transport installations. The operation of the device is based on the separation of air and dust from the raw material at the end of the installation transporting the textile raw material. The condenser is installed complete with a bag filter station. In the special version, it has an additional mesh on the drum to prevent fine fibers from entering the filters, while protecting the drum against abrasion in the case of glass, ceramic, basalt or carbon fibers. KO - standard rotary condenser, KOS- rotating condenser with an additional mesh on the drum.",
+    "cyclones": "The dust extracting cyclone, applied in pneumatic conveyance system, is designed for supplying fibre to contnuous-operation blending chamber, to fibre-storage boxes, bins, or feeders of various design. It can be also used feeding pickers or carding willow. CY1 - Dedusting cyclone, CY2 - Narrow, directional feeding cyclone, CY3 - Normal feed cyclone.",
+    "filters2": "The offered filtering stations are equipped with stationary bag filters in the amount of two to five bags in one station. Filters usually have a diameter of 500 mm and are divided into two parts: the upper one and a lower one, which allows emptying the contents of the filter. FW2 - 2-bag station, FW3 - 3-bag station, FW5 - 5-bag station. Fan power depends on the type of filter. ",
+    "TP": "The TP conveyor collects material from one or more weighing feeders (usually 2 to 5 feeders) and transports it to further machines within the processing line. The TPR conveyor has an additional opening roller installed before the fan moving the fibres to further processing.",
+    "pneumatic_desc": "The offered pneumatic transport installations are normally made of galvanized steel with a special smooth inner surface finish. Installation components: PS - steel pipes with diameters of 150 mm, 200 mm, 250mm, 300mm | PE - flexible pipes (spiro) with diameters of 150 mm, 200 mm, 250mm, 300mm | RO - rotary distributors WPT - centrifugal fans.",
+    
+    
+    "hours": "Opening times",
+    "mon-fri": "Mon-Fri ",
+    "sat-sun": "Sat-Sun ",
+    "closed": "closed",
+    "contact_with": "CONTACT WITH US",
+
+
+    "parameters": "Parameters",
+    "width": "Working width [mm]",
+    "power": "Power",
+    "cylinder": "Main cylinder diameter",
+    "doffer": "Doffer diameter",
+    "speed": "Speed",
+
+    
+    "szarparki": "Rag tearing machines",
+    "otwieracz": "Carding Openers POZ, OZ",
+    "szarparki2": "Tearing machines AC5, AB19",
+    "krajek": "Krajek tug",
+    "kondensery": "Rotary condensers",
+    "cyklony": "Cyclones",
+    "filtry": "Filters",
+
+
+    "Befama-przemysł": "Befama - textile industry",
+    "Befama-opis": "Producent of high quality machinery for the textile industry. Guarantee for purchased machines and parts. Wide range of machine models. Bale openers. Collective transporters. Nonwovens carding sets. Webdrafters. Crosslappers. Machines for fibre recovery. Rotary condensers, cyclones, filters. Mixing chambers. Carding set for spining. Production lines.",
+    "Befama-keywords": "Machinery for the textile industry"
+}

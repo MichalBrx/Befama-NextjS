@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0px;
+    font-family: 'Rubik', sans-serif;
+    color: #232323;
+}
+html{
+    overflow-x: hidden;
+    --scroll-behavior: smooth!important;
+scroll-behavior: smooth!important;
+}
+
+.btn2 span:first-child{
+    transform: translateX(-101%);
+    transition: transform .3s ease-in
+  }
+  .btn2:hover span{
+    transform: translateX(0)
+  }
+
+  .fade-anim img {
+    animation: fadeAnim 0.5s ease-out;
+    
+  }
+  @keyframes fadeAnim {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+

@@ -26,17 +26,18 @@
     "offer7": "Montaż, demontaż, relokacje maszyn",
 
 
-    "fact1": "BEFAMA jest rzetelnym producentem maszyn włókienniczych znanym w ponad 80 krajach świata, gdzie dostarczyła ogółem kilka tysięcy maszyn i urządzeń.",
+    "fact1": "BEFAMA jest rzetelnym producentem maszyn włókienniczych znanym w ponad 80 krajach świata, gdzie dostarczyła ogółem kilka tysięcy maszyn i urządzeń. ",
     "fact2": "Obecnie firma specjalizuje się głównie w produkcji linii do obróbki wszelkiego typu włókien od naturalnej wełny po włókna syntetyczne. Szeroki asortyment maszyn pozwala na dostosowanie linii produkcyjnej do indywidualnych potrzeb klienta. Procesy tworzenia konstrukcji i technologii realizowane są przez wysokiej klasy specjalistów, technologów i konstruktorów.",
-    "fact3": "W ofercie firmy można znaleźć szeroki asortyment maszyn, od linii rozluźniająco-mieszających, przez zespoły zgrzeblące różnych technologii, układacze,  maszyny do odzyskiwania włókien z wyrobów włókienniczych i inne maszyny pomocnicze.",
-    "fact4": "Zawsze służymy naszą radą i doświadczeniem w doborze najlepszych dla Państwa rozwiązań.",
-    "fact5": "Po zrealizowaniu inwestycji udzielamy gwarancji na nasze części i maszyny, zapewniamy możliwość diagnozowania awarii poprzez łącze internetowe i natychmiastowy serwis. Ponadto gwarantujemy dostawę oryginalnych części zamiennych przez cały czas pracy maszyny.",
+    "fact3": "W ofercie firmy można znaleźć szeroki asortyment maszyn, od linii rozluźniająco-mieszających, przez zespoły zgrzeblące różnych technologii, układacze, maszyny do odzyskiwania włókien z wyrobów włókienniczych i inne maszyny pomocnicze. Zawsze służymy naszą radą i doświadczeniem w doborze najlepszych dla Państwa rozwiązań. Komponenty wchodzące w skład produkowanych maszyn pochodzą od renomowanych producentów.",
+    "fact4": "Zapraszamy na targi ITMA 2023, które odbędą się w tym roku w Mediolanie we Włoszech w terminie 8-14 czerwca 2023 (H10, C211)",
+    "fact5": "Po zrealizowaniu inwestycji udzielamy gwarancji na nasze wyroby, zapewniamy możliwość diagnozowania awarii poprzez łącze internetowe i natychmiastowy serwis. Ponadto gwarantujemy dostawę oryginalnych części zamiennych przez cały czas użytkowania maszyny.",
     
     
     "specialization": "Specjalizacje",
     "offer_head": "Oferta",
-    "help": "Pomoc",
+    "news": "Aktualności",
     "guarantee": "Gwarancja",
+
     "questions": "Masz pytanie?",
     "write_us": "Napisz do nas!",
     "send": "Wyślij",

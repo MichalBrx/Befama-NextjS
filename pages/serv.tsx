@@ -35,10 +35,10 @@ const Serv = () => {
 
             <Slider />
 
-            <div className="flex justify-around mt-4 max-w-xl md:grid md:ml-5 md:justify-between md:mt-1 md:gap-3">
-              <Image src="/./lejki.webp" alt="img" width={128} height={128} className="w-1/4 md:w-36"/>
-              <Image src="/./tasma.webp" alt="img" width={128} height={128} className="w-1/4 md:w-36"/>
-              <Image src="/./Szarpak.webp" alt="img" width={128} height={128} className="w-1/4 md:w-36"/>
+            <div className="flex justify-around mt-4 max-w-xl md:grid md:ml-5 md:justify-between md:mt-1 md:gap-3 items-center">
+              <Image src="/./lejki.webp" alt="img" width={256} height={256} className="w-1/4 md:w-36 lg:w-72"/>
+              <Image src="/./tasma.webp" alt="img" width={256} height={256} className="w-1/4 md:w-36 lg:w-72"/>
+              <Image src="/./Szarpak.webp" alt="img" width={256} height={256} className="w-1/4 md:w-36 lg:w-72"/>
             </div>
           </div>
         </div>

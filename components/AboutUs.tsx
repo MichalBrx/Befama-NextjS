@@ -30,7 +30,7 @@ const AboutUs = () => {
             className="rounded-lg h-44 w-full"
             height={176}
             width={264}
-            src="/types/OB1E.webp"
+            src="/global.webp"
             alt="Machine-OB1E"
             loading="lazy"
           />
@@ -66,18 +66,6 @@ const AboutUs = () => {
           </h2>
           <p className="px-1">{t("fact3")}</p>
         </div>
-        <div className="py-2 flex flex-wrap ">
-          <Image
-            className="rounded-lg h-44 w-full"
-            height={176}
-            width={264}
-            src="/types/zgrzeblarki_tlo.webp"
-            alt="Machine-rozciagarka"
-            loading="lazy"
-          />
-          <h2 className="font-semibold text-xl p-1 mt-3"> {t("help")} </h2>
-          <p className="px-1">{t("fact4")}</p>
-        </div>
         <div className="py-2 flex flex-wrap " >
           <Image
             className="rounded-lg h-44 w-full"
@@ -89,6 +77,19 @@ const AboutUs = () => {
           />
           <h2 className="font-semibold text-xl p-1 mt-3"> {t("guarantee")} </h2>
           <p className="px-1">{t("fact5")}</p>
+        </div>
+
+        <div className="py-2 flex flex-wrap ">
+          <Image
+            className="rounded-lg h-44 w-full"
+            height={176}
+            width={264}
+            src="/itma.webp"
+            alt="Itma - logo"
+            loading="lazy"
+          />
+          <h2 className="font-semibold text-xl p-1 mt-3"> {t("news")} </h2>
+          <p className="px-1">{t("fact4")}</p>
         </div>
       </div>
       {/*  ---------------> DESKTOP <--------------- */}
@@ -108,12 +109,12 @@ const AboutUs = () => {
                 className="rounded-lg m-2 ml-5 self-center h-64 w-96"
                 height={176}
                 width={264}
-                src="/types/OB1E.webp"
+                src="/global.webp"
                 alt="OB1E"
                 loading="lazy"
               />
             </figure>
-            <div className="card-body w-80 self-center">
+            <div className="card-body w-full max-w-md self-center">
               <h2 className="card-title"> {t("about_us")} </h2>
               <p className="h-auto">{t("fact1")}</p>
             </div>
@@ -127,13 +128,13 @@ const AboutUs = () => {
               transition: "all 1.3s cubic-bezier(0.17, 0.55, 0.55, 1) 0.3s",
             }}
           >
-            <div className="card-body w-80 self-center">
+            <div className="card-body w-full max-w-md self-center">
               <h2 className="card-title"> {t("specialization")} </h2>
               <p className="h-auto">{t("fact2")}</p>
             </div>
             <figure>
               <Image
-                className="rounded-lg self-center h-auto w-96"
+                className="rounded-lg self-center h-auto w-96 my-4"
                 height={176}
                 width={264}
                 src="/types/AB6.webp"
@@ -161,11 +162,12 @@ const AboutUs = () => {
                 loading="lazy"
               />
             </figure>
-            <div className="card-body w-80 self-center">
+            <div className="card-body w-full max-w-md self-center">
               <h2 className="card-title"> {t("offer_head")} </h2>
               <p className="h-auto">{t("fact3")}</p>
             </div>
           </div>
+
           <div
             className="card card-side bg-white shadow-xl p-3 flex border-t my-5 lg:ml-96"
             ref={ref4}
@@ -175,21 +177,22 @@ const AboutUs = () => {
               transition: "all 1.3s cubic-bezier(0.17, 0.55, 0.55, 1) 0.3s",
             }}
           >
-            <div className="card-body w-80 self-center">
-              <h2 className="card-title"> {t("help")} </h2>
-              <p className="h-auto">{t("fact4")}</p>
+            <div className="card-body w-full max-w-md self-center">
+              <h2 className="card-title"> {t("guarantee")} </h2>
+              <p className="h-auto">{t("fact5")}</p>
             </div>
             <figure>
               <Image
-                className="rounded-lg m-2 ml-5 self-center h-64 w-96"
+                className="rounded-lg m-2 ml-5 self-center h-auto w-96"
                 height={176}
                 width={264}
-                src="/types/zgrzeblarki_tlo.webp"
-                alt="Machine"
+                src="/falowniki.webp"
+                alt="AB-6"
                 loading="lazy"
               />
             </figure>
           </div>
+
           <div
             className="card card-side bg-white shadow-xl flex border-t my-5 lg:mr-96 items-center py-2"
             ref={ref5}
@@ -204,14 +207,14 @@ const AboutUs = () => {
                 className="rounded-lg m-2 ml-5 self-center h-auto w-96"
                 height={176}
                 width={264}
-                src="/types/AB6-2.webp"
-                alt="AB-6"
+                src="/itma.webp"
+                alt="Itma logo"
                 loading="lazy"
               />
             </figure>
             <div className="card-body w-80 self-center">
-              <h2 className="card-title"> {t("guarantee")} </h2>
-              <p className="h-auto">{t("fact5")}</p>
+              <h2 className="card-title"> {t("news")} </h2>
+              <p className="h-auto">{t("fact4")}</p>
             </div>
           </div>
         </div>

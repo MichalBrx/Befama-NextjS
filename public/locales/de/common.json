@@ -24,17 +24,18 @@
     "offer6": "Austausch von Antrieben und Steuerungen",
     "offer7": "Montage, Demontage, Verlagerung von Maschinen",
 
-    "fact1": "BEFAMA ist ein zuverlässiger Hersteller von Textilmaschinen, der in über 80 Ländern der Welt bekannt ist und insgesamt mehrere tausend Maschinen und Geräte geliefert hat.",
-    "fact2": "Derzeit spezialisiert sich das Unternehmen hauptsächlich auf die Herstellung von Anlagen zur Verarbeitung aller Arten von Fasern, von Naturwolle bis hin zu synthetischen Fasern. Eine große Auswahl an Maschinen ermöglicht es Ihnen, die Produktionslinie an die individuellen Bedürfnisse des Kunden anzupassen. Die Prozesse zur Schaffung von Strukturen und Technologien werden von erstklassigen Spezialisten, Technologen und Konstrukteuren durchgeführt.",
-    "fact3": "Unser Angebot umfasst eine breite Auswahl an Maschinen von Faseröffnungs- und Mischanlagen bis zu verschiedenartigen Krempelsätzen, Vlieslegern, Rückgewinnungsmaschinen und Hilfsapparaten.",
-    "fact4": "Bei der Suche von optimalen Lösungen können wir Ihnen mit unserem Rat und unserer Erfahrung immer behilflich sein",
+    "fact1": "BEFAMA ist ein führender Hersteller von Textilmaschinen, die auf der ganzen Welt bekannt sind. Bisher wurden einige Tausend Maschinen und Vorrichtungen an Kunden geliefert.",
+    "fact2": "Der Schwerpunkt der BEFAMA-Maschinenproduktion liegt auf der Bearbeitung von Natur- und Kunstfasern. Das umfangreiche Programm von BEFAMA ermöglicht es, die Anlagen den individuellen Wünschen und dem Bedarf der einzelnen Kunden entsprechend herzustellen. Die neuen Maschinen und die damit verbundenen Arbeitsverfahren werden von erstklassigen Fachleuten, Konstrukteuren und Technologen ausgearbeitet.",
+    "fact3": "Unser Angebot umfasst eine breite Auswahl an Maschinen von Faseröffnungs- und Mischanlagen bis zu verschiedenartigen Krempelsätzen, Vlieslegern, Rückgewinnungsmaschinen und Hilfsapparaten. Bei der Suche von optimalen Lösungen können wir Ihnen mit unserem Rat und unserer Erfahrung immer behilflich sein. Die Bauelemente der BEFAMA maschinen werden durch die weltbekannte firmen produziert.",
+    "fact4": "Ausstellungen: Wir laden Sie zur ITMA 2023 ein, die dieses Jahr in Mailand, Italien, stattfinden wird. am 8.-14. Juni 2023 (H10, C211)",
     "fact5": "Nach der Installation leisten wir Garantie für unsere Maschinen. Eventuelle Ausfälle werden über Internet diagnostiziert und ein sofortiger Service geboten. Ebenso wird garantiert, dass der Kunde Originalersatzteile während des gesamten Maschinenlebens erhalten kann.",
     
     
     "specialization": "Spezialisierungen",
     "offer_head": "Angebot",
-    "help": "Hilfe",
+    "news": "Nachrichten",
     "guarantee": "Garantie",
+
     "questions": "Hast du eine Frage?",
     "write_us": "Schreib uns!",
     "send": "Senden",

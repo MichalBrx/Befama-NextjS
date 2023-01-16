@@ -64,9 +64,9 @@ export default function Slider() {
   };
 
   return (
-    <div ref={slideRef} className="w-full select-none relative sm:max-w-lg md:max-w-2xl">
+    <div ref={slideRef} className="w-full select-none relative sm:max-w-lg md:max-w-2xl lg:max-w-4xl">
       <div className="carousel-item relative w-full ">
-        <Image src={featuredProducts[currentIndex]} className="w-full h-auto" height={256} width={384} alt="machine" />
+        <Image src={featuredProducts[currentIndex]} className="w-full h-auto" height={512} width={768} alt="machine" />
       </div>
 
       <div className="absolute w-full top-1/2 transform -translate-y-1/2 px-3 flex justify-between items-center">
